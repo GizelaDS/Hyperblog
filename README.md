@@ -7,6 +7,8 @@ test texto simple [*link*](https://shields.io/)
 ### titulo 3
 * bullet list
 * made by me modified.
+* incluye ejemplos en linux, windows y mac.
+* disponible para todas las edades.
 
 **bold**
 
