@@ -9,7 +9,7 @@ test texto simple [*link*](https://shields.io/)
 * made by me modified.
 * incluye ejemplos en linux, windows y mac.
 * disponible para todas las edades.
-
+* prueba amend mas de un archivo
 **bold**
 
 *italic*
